@@ -1,3 +1,6 @@
+sudo apt-get install g++
+g++  file.cpp -o a
+./a
 --------------------------------------------------NEXTDATE---------------------------------------------
 #include <iostream>
 using namespace std;
